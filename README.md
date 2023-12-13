@@ -1,0 +1,1 @@
+# [@github.com - react-native-academind](https://github.com/Namean/react-native-academind)
