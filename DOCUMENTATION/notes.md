@@ -110,3 +110,34 @@ the second sview should hold the list
 
 ## Layouts & Flexbox
 
+1:10:18 / 3:24:28
+
+We'll have a deep dive into flexbox in the next lecture
+
+
+Layouts are (typically) created with Flexbox
+
+React Native Flexbox is similar to web flexbox
+
+
+You can control  how much space elements take up and if they are to the left or right of elements
+
+Pisitioning is controled via style settings
+
+
+
+flexbox is about two axes
+
+flex: 1,
+flexDirection: 'column'
+justifyContent: 'flex-start',
+alignItems: ' flex-start
+
+
+The properties above are applied to the elements within the container.
+
+The flex 1 tells the container that it should expand to occupy all availble space, this is seen in relation to other containers that also take up space,
+
+main-axis: top -> bottom || left -> right
+
+justify content: 'space-between'
